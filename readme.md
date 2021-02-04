@@ -1,4 +1,4 @@
-# Title
+# Dashboard for JavaScript Localization
 
 Text
 
