@@ -1,0 +1,13 @@
+{
+    "name": "dashboardlocalizationhtmljs",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "@devexpress/analytics-core": "20.2.5",
+        "devexpress-dashboard": "20.2.5",
+        "devextreme": "20.2.5",
+        "devextreme-cldr-data": "^1.0.2",
+        "globalize": "^1.0.1",
+        "jquery-ui-dist": "^1.12.1"
+    }
+}
