@@ -42,6 +42,7 @@
     <script>
         window.onload = function () {
             $.when(
+                // Localize the Web Dashboard UI for the German market (the 'de' culture):
                 $.getJSON("json resources/dx-dashboard.de.json").then(DevExpress.Dashboard.ResourceManager.setLocalizationMessages),
                 $.getJSON("json resources/dx-analytics-core.de.json").then(DevExpress.Dashboard.ResourceManager.setLocalizationMessages)
             ).then(function () {
@@ -51,7 +52,7 @@
                 // Apply custom formatting for numbers and dates:
                 var json = { main: {} };
                 json["main"]["de"] = {
-                    numbers: { "currencyFormats-numberSystem-latn": { standard: "C #,##0.00 ¤" } },
+                    numbers: { "currencyFormats-numberSystem-latn": { standard: "C #,##0.00 Â¤" } },
                     dates: { calendars: { gregorian: { dateTimeFormats: { availableFormats: { yMd: "dd MMM y" } } } } }
                 };
                 Globalize.load(json);
