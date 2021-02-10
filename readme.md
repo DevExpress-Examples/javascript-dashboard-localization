@@ -9,7 +9,7 @@ The example shows how to localize the Dashboard control in JavaScript applicatio
 
 ## Example Structure
 
-The example contains two projects. Both projects localize the JavaScript Dashboard control for the German market with the [component-specific JSON files](https://docs.devexpress.com/Dashboard/402540/web-dashboard/dashboard-control-for-javascript-applications-jquery-knockout-etc/localization#localize-ui). The difference between projects is a way used to [format dates, numbers, and currencies](https://docs.devexpress.com/Dashboard/402540#localize-dates-numbers-and-currencies).
+The example contains two projects that show how to use [component-specific JSON files](https://docs.devexpress.com/Dashboard/402540/web-dashboard/dashboard-control-for-javascript-applications-jquery-knockout-etc/localization#localize-ui) to localize the JavaScript Dashboard control for the German market. Each project uses a different approach to [format dates, numbers, and currencies](https://docs.devexpress.com/Dashboard/402540#localize-dates-numbers-and-currencies).
 
 ### Intl
 <!-- default file list -->
