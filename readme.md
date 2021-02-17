@@ -1,4 +1,7 @@
 # Dashboard for JavaScript Applications - Localization
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/336046657/)**
+<!-- run online end -->
 
 The example shows how to localize the Dashboard control in JavaScript applications:
 
