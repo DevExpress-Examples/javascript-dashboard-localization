@@ -6,7 +6,7 @@ using System.Web.Routing;
 namespace DashboardLocalizationHTMLJS {
     public static class DashboardConfig {
         public static void RegisterService(RouteCollection routes) {
-            routes.MapDashboardRoute("api/dashboard");
+            routes.MapDashboardRoute("api/dashboard", "DefaultDashboard");
 
             DashboardConfigurator.Default.SetDashboardStorage(new DashboardFileStorage(@"~/App_Data/Dashboards"));
             DashboardConfigurator.Default.SetDataSourceStorage(CreateDataSourceStorage());
