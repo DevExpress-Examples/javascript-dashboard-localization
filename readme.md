@@ -3,10 +3,7 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T971027)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Dashboard for JavaScript Applications - Localization
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/336046657/)**
-<!-- run online end -->
+# BI Dashboard for JavaScript Applications - Localization
 
 The example shows how to localize the Dashboard control in JavaScript applications:
 
@@ -21,7 +18,7 @@ The example contains two projects that show how to use [component-specific JSON 
 
 ### Intl
 <!-- default file list -->
-*Files to look at*:
+*Files to review*:
 
 * [index.html](./CS/DashboardLocalizationHTMLJS/index.html)
 * [Web.config](./CS/DashboardLocalizationHTMLJS/Web.config#L85)
@@ -34,7 +31,7 @@ Since the Web Dashboard exports data on the server side, you need to localize th
 
 ### Globalize
 <!-- default file list -->
-*Files to look at*:
+*Files to review*:
 
 * [index.html](./CS/DashboardLocalizationManualHTMLJS/index.html)
 * [Web.config](./CS/DashboardLocalizationManualHTMLJS/Web.config#L85)
