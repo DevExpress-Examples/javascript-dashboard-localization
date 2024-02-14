@@ -3,9 +3,9 @@
     "version": "1.0.0",
     "private": true,
     "dependencies": {
-        "devextreme": "22.1.12",
-        "@devexpress/analytics-core": "22.1.12",
-        "devexpress-dashboard": "22.1.12",
+        "devextreme": "22.1.13",
+        "@devexpress/analytics-core": "22.1.13",
+        "devexpress-dashboard": "22.1.13",
         "jquery-ui-dist": "^1.12.1"
     }
 }
